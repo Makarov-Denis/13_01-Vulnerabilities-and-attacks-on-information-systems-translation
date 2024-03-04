@@ -50,9 +50,11 @@
 
 В результате сканирования на уязвимости с помощью встроенного скрипта nmap Vulners команда nmap -A --script vulners.nse 192.168.1.4 обнаружилось много уязвимостей список некороторых и скриншот выполнения команды представлены ниже:
 
-CVE-2012-0814  3.5 - https://vulners.com/cve/CVE-2012-0814
-PRION:CVE-2011-2168 - https://vulners.com/prion/PRION:CVE-2011-2168
-CVE-2008-3259 - https://vulners.com/cve/CVE-2008-3259
+- CVE-2012-0814  3.5 - https://vulners.com/cve/CVE-2012-0814
+- PRION:CVE-2011-2168 - https://vulners.com/prion/PRION:CVE-2011-2168
+- CVE-2008-3259 - https://vulners.com/cve/CVE-2008-3259
+
+![Список уязвимостей](https://github.com/Makarov-Denis/13_01-Vulnerabilities-and-attacks-on-information-systems-translation/assets/148921246/ae685209-d3ff-4498-a295-cf36fe592375)
 
 ---
 
